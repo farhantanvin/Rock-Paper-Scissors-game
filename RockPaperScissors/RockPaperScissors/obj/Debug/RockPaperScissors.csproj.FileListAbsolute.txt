@@ -1,0 +1,70 @@
+C:\Users\A S H I K\source\repos\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\A S H I K\source\repos\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\A S H I K\source\repos\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\A S H I K\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojAssemblyReference.cache
+C:\Users\A S H I K\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Form1.resources
+C:\Users\A S H I K\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Properties.Resources.resources
+C:\Users\A S H I K\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.GenerateResource.cache
+C:\Users\A S H I K\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\A S H I K\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\A S H I K\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+C:\Users\A S H I K\Desktop\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\A S H I K\Desktop\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\A S H I K\Desktop\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\A S H I K\Desktop\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojAssemblyReference.cache
+C:\Users\A S H I K\Desktop\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Form1.resources
+C:\Users\A S H I K\Desktop\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Properties.Resources.resources
+C:\Users\A S H I K\Desktop\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.GenerateResource.cache
+C:\Users\A S H I K\Desktop\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\A S H I K\Desktop\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\A S H I K\Desktop\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+C:\Users\A S H I K\Desktop\RockPaperScissors\RockPaperScissors\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\A S H I K\Desktop\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CopyComplete
+E:\C#\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+E:\C#\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+E:\C#\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+E:\C#\RockPaperScissors\RockPaperScissors\bin\Debug\Tulpep.NotificationWindow.dll
+E:\C#\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojAssemblyReference.cache
+E:\C#\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Form1.resources
+E:\C#\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Properties.Resources.resources
+E:\C#\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.GenerateResource.cache
+E:\C#\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+E:\C#\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CopyComplete
+E:\C#\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+E:\C#\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+G:\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+G:\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+G:\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+G:\RockPaperScissors\RockPaperScissors\bin\Debug\Tulpep.NotificationWindow.dll
+G:\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojAssemblyReference.cache
+G:\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Form1.resources
+G:\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Properties.Resources.resources
+G:\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.GenerateResource.cache
+G:\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+G:\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CopyComplete
+G:\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+G:\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+C:\Users\Asus\Desktop\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\Asus\Desktop\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\Asus\Desktop\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\Asus\Desktop\RockPaperScissors\RockPaperScissors\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\Asus\Desktop\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Form1.resources
+C:\Users\Asus\Desktop\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Properties.Resources.resources
+C:\Users\Asus\Desktop\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CopyComplete
+C:\Users\Asus\Desktop\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\Asus\Desktop\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+F:\C# game\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+F:\C# game\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+F:\C# game\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+F:\C# game\RockPaperScissors\RockPaperScissors\bin\Debug\Tulpep.NotificationWindow.dll
+F:\C# game\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojAssemblyReference.cache
+F:\C# game\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Form1.resources
+F:\C# game\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Properties.Resources.resources
+F:\C# game\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.GenerateResource.cache
+F:\C# game\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+F:\C# game\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CopyComplete
+F:\C# game\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+F:\C# game\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
